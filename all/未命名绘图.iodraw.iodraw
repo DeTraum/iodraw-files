@@ -82,8 +82,8 @@
         <mxCell id="t7nXYPzFczanzb92iRo1-27" value="Gas费+ETH奖励" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="268" y="322" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="t7nXYPzFczanzb92iRo1-28" value="Gas费+ETH奖励" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="256" y="218" width="110" height="20" as="geometry" />
+        <mxCell id="t7nXYPzFczanzb92iRo1-28" value="Gas费" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="218" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
