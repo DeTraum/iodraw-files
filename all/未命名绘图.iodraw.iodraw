@@ -88,7 +88,7 @@
         <mxCell id="t7nXYPzFczanzb92iRo1-29" value="DAPP" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="196" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="t7nXYPzFczanzb92iRo1-35" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.46;dx=17.22;notch=0;flipH=1;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="t7nXYPzFczanzb92iRo1-35" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.46;dx=17.22;notch=0;flipH=1;noLabel=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="584" y="262" width="52.86" height="25" as="geometry" />
         </mxCell>
       </root>
