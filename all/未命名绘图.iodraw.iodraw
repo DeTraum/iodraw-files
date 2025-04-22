@@ -91,6 +91,9 @@
         <mxCell id="t7nXYPzFczanzb92iRo1-33" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.ipad7inch;strokeColor=#c0c0c0;" vertex="1" parent="1">
           <mxGeometry x="300" y="720" width="39.33" height="59" as="geometry" />
         </mxCell>
+        <mxCell id="t7nXYPzFczanzb92iRo1-34" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iPhone;bgStyle=bgGreen;fillColor=#aaaaaa;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="530" width="200" height="400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
