@@ -83,7 +83,7 @@
           <mxGeometry x="268" y="322" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="t7nXYPzFczanzb92iRo1-28" value="Gas费" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="218" width="110" height="20" as="geometry" />
+          <mxGeometry x="245" y="218" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
