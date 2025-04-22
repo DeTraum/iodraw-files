@@ -37,7 +37,7 @@
             <mxPoint x="680" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t7nXYPzFczanzb92iRo1-13" value="ETH" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="t7nXYPzFczanzb92iRo1-13" value="链下" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="520" y="94" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
