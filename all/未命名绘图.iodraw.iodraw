@@ -52,8 +52,8 @@
         <mxCell id="t7nXYPzFczanzb92iRo1-17" value="将token兑换成&lt;div&gt;法币获益&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="395" y="196" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="t7nXYPzFczanzb92iRo1-18" value="将token兑换成&lt;div&gt;法币获益&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="485" y="196" width="110" height="20" as="geometry" />
+        <mxCell id="t7nXYPzFczanzb92iRo1-18" value="开发者" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="487" y="198" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
