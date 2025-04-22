@@ -61,8 +61,8 @@
         <mxCell id="t7nXYPzFczanzb92iRo1-20" value="法币" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="295" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="t7nXYPzFczanzb92iRo1-21" value="交易者" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="496" y="305" width="110" height="20" as="geometry" />
+        <mxCell id="t7nXYPzFczanzb92iRo1-21" value="矿工" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="487" y="397" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
