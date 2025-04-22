@@ -85,8 +85,8 @@
         <mxCell id="t7nXYPzFczanzb92iRo1-28" value="Gas费" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="251" y="218" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="t7nXYPzFczanzb92iRo1-29" value="Gas费" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="261" y="228" width="60" height="20" as="geometry" />
+        <mxCell id="t7nXYPzFczanzb92iRo1-29" value="DAPP" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="196" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
