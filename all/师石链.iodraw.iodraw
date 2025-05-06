@@ -7,6 +7,11 @@
         <mxCell id="e9-ibAsemaZ0BgiGmJn--1" value="Follower" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="70" y="920" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="e9-ibAsemaZ0BgiGmJn--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=54.99999999999999;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="e9-ibAsemaZ0BgiGmJn--2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="e9-ibAsemaZ0BgiGmJn--2" value="Candidate" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="270" y="920" width="120" height="40" as="geometry" />
         </mxCell>
@@ -17,7 +22,7 @@
           <mxGeometry x="16" y="850" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e9-ibAsemaZ0BgiGmJn--5" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;times out,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;starts election&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="850" width="100" height="30" as="geometry" />
+          <mxGeometry x="160" y="850" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e9-ibAsemaZ0BgiGmJn--6" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;times out,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;new election&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="850" width="80" height="30" as="geometry" />
