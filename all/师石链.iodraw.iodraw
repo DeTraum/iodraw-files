@@ -827,7 +827,7 @@
         <mxCell id="p_P1iqnxTr1x61u6EU8I-115" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;区块链P2P网络&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="492" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p_P1iqnxTr1x61u6EU8I-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p_P1iqnxTr1x61u6EU8I-96" target="p_P1iqnxTr1x61u6EU8I-119">
+        <mxCell id="p_P1iqnxTr1x61u6EU8I-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="p_P1iqnxTr1x61u6EU8I-96" target="p_P1iqnxTr1x61u6EU8I-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p_P1iqnxTr1x61u6EU8I-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="p_P1iqnxTr1x61u6EU8I-96" target="p_P1iqnxTr1x61u6EU8I-119">
