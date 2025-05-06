@@ -75,7 +75,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ft9Uvrj6zMWQsiCxmAhh" name="第 2 页">
-    <mxGraphModel dx="535" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="459" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,7 +110,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gqZhBHi7AHj71aZaUwRN-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gqZhBHi7AHj71aZaUwRN-6" target="gqZhBHi7AHj71aZaUwRN-7">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqZhBHi7AHj71aZaUwRN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="gqZhBHi7AHj71aZaUwRN-6" target="gqZhBHi7AHj71aZaUwRN-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="310" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gqZhBHi7AHj71aZaUwRN-6" value="3. 选取具体的set" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="240" y="270" width="160" height="80" as="geometry" />
@@ -118,11 +129,17 @@
         <mxCell id="gqZhBHi7AHj71aZaUwRN-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;set1 chain&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="160" y="400" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="gqZhBHi7AHj71aZaUwRN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gqZhBHi7AHj71aZaUwRN-8" target="gqZhBHi7AHj71aZaUwRN-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gqZhBHi7AHj71aZaUwRN-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;set2 chain&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="400" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gqZhBHi7AHj71aZaUwRN-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;set3 chain&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gqZhBHi7AHj71aZaUwRN-31" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="510" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gqZhBHi7AHj71aZaUwRN-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;hot chain&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="560" y="400" width="80" height="80" as="geometry" />
@@ -131,7 +148,7 @@
           <mxGeometry x="280" y="570" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gqZhBHi7AHj71aZaUwRN-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;批处理交易:影子户给热点账户转账,获取交易数据等&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="235" y="510" width="170" height="30" as="geometry" />
+          <mxGeometry x="240" y="510" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gqZhBHi7AHj71aZaUwRN-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;4. 交易成功,通知proxy&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="500" width="170" height="30" as="geometry" />
