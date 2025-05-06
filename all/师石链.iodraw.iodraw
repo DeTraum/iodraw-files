@@ -19,7 +19,7 @@
         <mxCell id="e9-ibAsemaZ0BgiGmJn--5" value="&lt;div&gt;times out,&lt;/div&gt;&lt;div&gt;starts election&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="850" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e9-ibAsemaZ0BgiGmJn--6" value="&lt;div&gt;times out,&lt;/div&gt;&lt;div&gt;starts election&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="e9-ibAsemaZ0BgiGmJn--6" value="&lt;div&gt;times out,&lt;/div&gt;&lt;div&gt;new election&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="850" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
