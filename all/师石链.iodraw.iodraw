@@ -838,8 +838,8 @@
             <mxPoint x="925" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p_P1iqnxTr1x61u6EU8I-115" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;机构乙&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="492" width="60" height="30" as="geometry" />
+        <mxCell id="p_P1iqnxTr1x61u6EU8I-115" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;区块链P2P网络&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="492" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p_P1iqnxTr1x61u6EU8I-117" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="764" y="580" width="292" height="230" as="geometry" />
