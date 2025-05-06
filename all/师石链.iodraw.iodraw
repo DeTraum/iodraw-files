@@ -851,41 +851,19 @@
         <mxCell id="p_P1iqnxTr1x61u6EU8I-103" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="775" y="915" width="300" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="p_P1iqnxTr1x61u6EU8I-104" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;SF区&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="771" y="881" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="p_P1iqnxTr1x61u6EU8I-105" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;业务系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="785" y="928" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="p_P1iqnxTr1x61u6EU8I-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="925" y="991" as="sourcePoint" />
             <mxPoint x="923.9999999999998" y="819" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p_P1iqnxTr1x61u6EU8I-107" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="785" y="970" width="280" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="p_P1iqnxTr1x61u6EU8I-108" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;业务子系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="880" y="990" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="p_P1iqnxTr1x61u6EU8I-109" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;服务器(主)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="805" y="1155" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="p_P1iqnxTr1x61u6EU8I-110" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;服务器(主)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="955" y="1155" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p_P1iqnxTr1x61u6EU8I-111" value="" style="shape=mxgraph.cisco.servers.standard_host;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="815" y="1039" width="70" height="102" as="geometry" />
-        </mxCell>
-        <mxCell id="p_P1iqnxTr1x61u6EU8I-112" value="" style="shape=mxgraph.cisco.servers.standard_host;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="965" y="1039" width="70" height="102" as="geometry" />
-        </mxCell>
-        <mxCell id="p_P1iqnxTr1x61u6EU8I-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p_P1iqnxTr1x61u6EU8I-96" target="p_P1iqnxTr1x61u6EU8I-107">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="p_P1iqnxTr1x61u6EU8I-114" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="886.25" y="853" width="77.5" height="80" as="geometry" />
+        <mxCell id="p_P1iqnxTr1x61u6EU8I-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p_P1iqnxTr1x61u6EU8I-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="925" y="970" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="p_P1iqnxTr1x61u6EU8I-115" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;机构乙&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="764" y="492" width="60" height="30" as="geometry" />
