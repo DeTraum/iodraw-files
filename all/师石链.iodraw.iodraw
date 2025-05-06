@@ -759,7 +759,7 @@
           <mxGeometry x="294" y="519" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p_P1iqnxTr1x61u6EU8I-61" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="294" y="563" width="280" height="230" as="geometry" />
+          <mxGeometry x="298" y="563" width="272" height="230" as="geometry" />
         </mxCell>
         <mxCell id="p_P1iqnxTr1x61u6EU8I-62" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;区块链接入前置&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="366.5" y="577" width="135" height="30" as="geometry" />
