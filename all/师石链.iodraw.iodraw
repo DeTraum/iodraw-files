@@ -833,6 +833,9 @@
         <mxCell id="p_P1iqnxTr1x61u6EU8I-97" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;区块链节点&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="842.5" y="554" width="135" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="p_P1iqnxTr1x61u6EU8I-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p_P1iqnxTr1x61u6EU8I-98" target="p_P1iqnxTr1x61u6EU8I-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p_P1iqnxTr1x61u6EU8I-98" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;服务器(主)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="725" width="90" height="30" as="geometry" />
         </mxCell>
