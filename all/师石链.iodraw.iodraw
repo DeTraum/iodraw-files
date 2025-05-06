@@ -13,11 +13,11 @@
         <mxCell id="e9-ibAsemaZ0BgiGmJn--3" value="Leader" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="470" y="910" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="e9-ibAsemaZ0BgiGmJn--4" value="starts up" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="850" width="60" height="30" as="geometry" />
+        <mxCell id="e9-ibAsemaZ0BgiGmJn--4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;starts up&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="850" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e9-ibAsemaZ0BgiGmJn--5" value="&lt;div&gt;times out,&lt;/div&gt;&lt;div&gt;starts election&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="850" width="80" height="30" as="geometry" />
+        <mxCell id="e9-ibAsemaZ0BgiGmJn--5" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;times out,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;starts election&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="850" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e9-ibAsemaZ0BgiGmJn--6" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;times out,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;new election&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="850" width="80" height="30" as="geometry" />
