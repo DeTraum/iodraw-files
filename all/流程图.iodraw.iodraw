@@ -218,7 +218,7 @@
         <mxCell id="En3w5l2pCtN0uPhrjvwb-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;高保真原型&lt;/font&gt;" style="text;strokeColor=#6c8ebf;align=center;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
           <mxGeometry x="365" y="160" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="En3w5l2pCtN0uPhrjvwb-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;高保真UI&lt;/font&gt;" style="text;strokeColor=#6c8ebf;align=center;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
+        <mxCell id="En3w5l2pCtN0uPhrjvwb-11" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;高保真UI&lt;/font&gt;" style="text;strokeColor=#6c8ebf;align=center;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
           <mxGeometry x="365" y="200" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vjRvE42tQsePJOY1P6pl-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="En3w5l2pCtN0uPhrjvwb-1" source="En3w5l2pCtN0uPhrjvwb-15" target="En3w5l2pCtN0uPhrjvwb-17">
