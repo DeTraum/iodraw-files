@@ -82,6 +82,9 @@
         <mxCell id="fkBUHT7Xdstx9BfVDVsn-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#b85450;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="960" y="20" width="170" height="220" as="geometry" />
         </mxCell>
+        <mxCell id="fkBUHT7Xdstx9BfVDVsn-30" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;付款40% = 71.2w&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="290" width="326.25" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
