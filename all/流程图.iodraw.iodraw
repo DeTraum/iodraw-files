@@ -343,10 +343,10 @@
           <mxGeometry x="2100" y="75" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4hdUQdOhkFKqEoAyxMzh-35" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;strokeColor=#CC0000;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
-          <mxGeometry x="452.09000000000003" y="-122.45" width="20" height="342.45" as="geometry" />
+          <mxGeometry x="717.9100000000001" y="-130" width="20" height="342.45" as="geometry" />
         </mxCell>
         <mxCell id="4hdUQdOhkFKqEoAyxMzh-36" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;付款10%&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
-          <mxGeometry x="374.17999999999995" y="8.94" width="175.82" height="30" as="geometry" />
+          <mxGeometry x="640" y="1.3899999999999997" width="175.82" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
