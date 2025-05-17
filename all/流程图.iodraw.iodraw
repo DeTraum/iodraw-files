@@ -256,9 +256,6 @@
         <mxCell id="En3w5l2pCtN0uPhrjvwb-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;付款10% = 17.8w&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
           <mxGeometry x="1019.39" y="280" width="175.82" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="En3w5l2pCtN0uPhrjvwb-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="En3w5l2pCtN0uPhrjvwb-1" source="En3w5l2pCtN0uPhrjvwb-25" target="En3w5l2pCtN0uPhrjvwb-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="En3w5l2pCtN0uPhrjvwb-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;一期开发&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
           <mxGeometry x="600" y="75" width="120" height="40" as="geometry" />
         </mxCell>
@@ -266,7 +263,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="En3w5l2pCtN0uPhrjvwb-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;后端、前端开发&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
-          <mxGeometry x="600" y="135" width="120" height="30" as="geometry" />
+          <mxGeometry x="700" y="50" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="En3w5l2pCtN0uPhrjvwb-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;内部测试&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
           <mxGeometry x="600" y="190" width="120" height="30" as="geometry" />
