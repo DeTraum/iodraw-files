@@ -89,7 +89,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 1 页 的副本" id="D-w9GvVfkZRtIMBAPwPu">
-    <mxGraphModel dx="437" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="622" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="l_wkotxjw6Bg8nqMJ_qo-0" />
         <mxCell id="l_wkotxjw6Bg8nqMJ_qo-1" parent="l_wkotxjw6Bg8nqMJ_qo-0" />
@@ -151,7 +151,7 @@
           <mxGeometry x="1060" y="80" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l_wkotxjw6Bg8nqMJ_qo-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;strokeColor=#B85450;" vertex="1" parent="l_wkotxjw6Bg8nqMJ_qo-1">
-          <mxGeometry x="539.69" y="-89.69" width="20" height="699.37" as="geometry" />
+          <mxGeometry x="544.53" y="-84.85" width="20" height="689.69" as="geometry" />
         </mxCell>
         <mxCell id="l_wkotxjw6Bg8nqMJ_qo-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;付款40% = 71.2w&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="l_wkotxjw6Bg8nqMJ_qo-1">
           <mxGeometry x="390" y="280" width="326.25" height="30" as="geometry" />
