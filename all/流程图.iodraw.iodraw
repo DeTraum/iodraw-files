@@ -184,7 +184,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 1 页 的副本 的副本" id="TW0yYQyesT5O2ymt5mUS">
-    <mxGraphModel dx="2565" dy="1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="5130" dy="3070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="En3w5l2pCtN0uPhrjvwb-0" />
         <mxCell id="En3w5l2pCtN0uPhrjvwb-1" parent="En3w5l2pCtN0uPhrjvwb-0" />
@@ -363,7 +363,7 @@
         <mxCell id="4hdUQdOhkFKqEoAyxMzh-43" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;strokeColor=#CC0000;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
           <mxGeometry x="2200.29" y="-70.29" width="20" height="238.1" as="geometry" />
         </mxCell>
-        <mxCell id="4hdUQdOhkFKqEoAyxMzh-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
+        <mxCell id="4hdUQdOhkFKqEoAyxMzh-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
           <mxGeometry x="320" width="740" height="310" as="geometry" />
         </mxCell>
       </root>
