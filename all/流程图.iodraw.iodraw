@@ -182,7 +182,7 @@
           <mxGeometry x="600" y="135" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eqwx6yas9o-oH9NChUTg-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;内部测试&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l_wkotxjw6Bg8nqMJ_qo-1">
-          <mxGeometry x="720" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="600" y="190" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
