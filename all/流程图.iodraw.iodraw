@@ -189,7 +189,7 @@
         <mxCell id="En3w5l2pCtN0uPhrjvwb-0" />
         <mxCell id="En3w5l2pCtN0uPhrjvwb-1" parent="En3w5l2pCtN0uPhrjvwb-0" />
         <mxCell id="vjRvE42tQsePJOY1P6pl-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
-          <mxGeometry x="360" y="75" width="130" height="175" as="geometry" />
+          <mxGeometry x="360" y="75" width="130" height="165" as="geometry" />
         </mxCell>
         <mxCell id="En3w5l2pCtN0uPhrjvwb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="En3w5l2pCtN0uPhrjvwb-1" source="En3w5l2pCtN0uPhrjvwb-4" target="En3w5l2pCtN0uPhrjvwb-6">
           <mxGeometry relative="1" as="geometry" />
