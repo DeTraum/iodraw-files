@@ -184,7 +184,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 1 页 的副本 的副本" id="TW0yYQyesT5O2ymt5mUS">
-    <mxGraphModel dx="1026" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="586" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="En3w5l2pCtN0uPhrjvwb-0" />
         <mxCell id="En3w5l2pCtN0uPhrjvwb-1" parent="En3w5l2pCtN0uPhrjvwb-0" />
@@ -242,10 +242,10 @@
         <mxCell id="En3w5l2pCtN0uPhrjvwb-20" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;付款40% = 71.2w&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
           <mxGeometry x="381" y="10" width="326.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="En3w5l2pCtN0uPhrjvwb-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;strokeColor=#0066CC;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
+        <mxCell id="En3w5l2pCtN0uPhrjvwb-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;strokeColor=#CC0000;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
           <mxGeometry x="1027.95" y="-47.66" width="20" height="195" as="geometry" />
         </mxCell>
-        <mxCell id="En3w5l2pCtN0uPhrjvwb-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;付款10% = 17.8w&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
+        <mxCell id="En3w5l2pCtN0uPhrjvwb-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;付款10% = 17.8w&lt;/span&gt;" style="text;strokeColor=#CC0000;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
           <mxGeometry x="950.04" y="10" width="175.82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4hdUQdOhkFKqEoAyxMzh-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
