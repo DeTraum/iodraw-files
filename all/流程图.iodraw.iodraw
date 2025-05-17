@@ -25,6 +25,9 @@
         <mxCell id="fkBUHT7Xdstx9BfVDVsn-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="145" width="50" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="fkBUHT7Xdstx9BfVDVsn-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="145" width="30" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
