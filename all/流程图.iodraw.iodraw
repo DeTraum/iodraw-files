@@ -252,10 +252,25 @@
           <mxGeometry x="740" y="195" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="En3w5l2pCtN0uPhrjvwb-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;后端、前端开发&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
-          <mxGeometry x="620" y="130" width="120" height="30" as="geometry" />
+          <mxGeometry x="700" y="130" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="En3w5l2pCtN0uPhrjvwb-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;内部测试&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
           <mxGeometry x="620" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4hdUQdOhkFKqEoAyxMzh-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
+          <mxGeometry x="550" y="75" width="130" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4hdUQdOhkFKqEoAyxMzh-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;成立项目组&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
+          <mxGeometry x="550" y="75" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4hdUQdOhkFKqEoAyxMzh-2" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;需求书制定&lt;/font&gt;" style="text;strokeColor=#6c8ebf;align=center;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
+          <mxGeometry x="565" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4hdUQdOhkFKqEoAyxMzh-3" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;高保真原型&lt;/font&gt;" style="text;strokeColor=#6c8ebf;align=center;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
+          <mxGeometry x="565" y="160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4hdUQdOhkFKqEoAyxMzh-4" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;高保真UI&lt;/font&gt;" style="text;strokeColor=#6c8ebf;align=center;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
+          <mxGeometry x="565" y="200" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
