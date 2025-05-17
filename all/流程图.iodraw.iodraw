@@ -184,13 +184,10 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 1 页 的副本 的副本" id="TW0yYQyesT5O2ymt5mUS">
-    <mxGraphModel dx="1207" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="342" dy="205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="En3w5l2pCtN0uPhrjvwb-0" />
         <mxCell id="En3w5l2pCtN0uPhrjvwb-1" parent="En3w5l2pCtN0uPhrjvwb-0" />
-        <mxCell id="En3w5l2pCtN0uPhrjvwb-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#b85450;arcSize=10;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
-          <mxGeometry x="210" y="20" width="750" height="220" as="geometry" />
-        </mxCell>
         <mxCell id="En3w5l2pCtN0uPhrjvwb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="En3w5l2pCtN0uPhrjvwb-1" source="En3w5l2pCtN0uPhrjvwb-4" target="En3w5l2pCtN0uPhrjvwb-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -250,17 +247,11 @@
         <mxCell id="En3w5l2pCtN0uPhrjvwb-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;strokeColor=#5ea4d9;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
           <mxGeometry x="1093.57" y="176.27" width="20" height="167.45" as="geometry" />
         </mxCell>
-        <mxCell id="En3w5l2pCtN0uPhrjvwb-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#5EA4D9;arcSize=10;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
-          <mxGeometry x="1020" y="20" width="170" height="220" as="geometry" />
-        </mxCell>
         <mxCell id="En3w5l2pCtN0uPhrjvwb-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;付款10% = 17.8w&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
           <mxGeometry x="1019.39" y="280" width="175.82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="En3w5l2pCtN0uPhrjvwb-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;一期开发&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
           <mxGeometry x="600" y="75" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="En3w5l2pCtN0uPhrjvwb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="En3w5l2pCtN0uPhrjvwb-1" source="En3w5l2pCtN0uPhrjvwb-27" target="En3w5l2pCtN0uPhrjvwb-28">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="En3w5l2pCtN0uPhrjvwb-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;后端、前端开发&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
           <mxGeometry x="700" y="50" width="120" height="30" as="geometry" />
