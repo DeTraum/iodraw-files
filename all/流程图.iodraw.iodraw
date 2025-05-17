@@ -242,7 +242,7 @@
           <mxGeometry x="381" y="10" width="326.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="En3w5l2pCtN0uPhrjvwb-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;strokeColor=#CC0000;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
-          <mxGeometry x="1069.77" y="-78.5" width="20" height="256.68" as="geometry" />
+          <mxGeometry x="1077.12" y="-88.84" width="20" height="277.36" as="geometry" />
         </mxCell>
         <mxCell id="En3w5l2pCtN0uPhrjvwb-23" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;付款10%&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
           <mxGeometry x="950.04" y="10" width="175.82" height="30" as="geometry" />
