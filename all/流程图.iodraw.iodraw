@@ -129,9 +129,10 @@
         <mxCell id="l_wkotxjw6Bg8nqMJ_qo-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="l_wkotxjw6Bg8nqMJ_qo-1">
           <mxGeometry x="400" y="47.5" width="20" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="l_wkotxjw6Bg8nqMJ_qo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l_wkotxjw6Bg8nqMJ_qo-1" target="l_wkotxjw6Bg8nqMJ_qo-16">
+        <mxCell id="l_wkotxjw6Bg8nqMJ_qo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l_wkotxjw6Bg8nqMJ_qo-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="95" as="sourcePoint" />
+            <mxPoint x="724" y="95" as="sourcePoint" />
+            <mxPoint x="784" y="95" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l_wkotxjw6Bg8nqMJ_qo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="l_wkotxjw6Bg8nqMJ_qo-1" target="l_wkotxjw6Bg8nqMJ_qo-21">
@@ -179,7 +180,7 @@
           <mxGeometry x="959.39" y="280" width="175.82" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eqwx6yas9o-oH9NChUTg-0" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;一期开发&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="l_wkotxjw6Bg8nqMJ_qo-1">
-          <mxGeometry x="600" y="75" width="120" height="40" as="geometry" />
+          <mxGeometry x="610" y="70" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
