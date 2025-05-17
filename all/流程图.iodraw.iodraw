@@ -357,6 +357,12 @@
         <mxCell id="4hdUQdOhkFKqEoAyxMzh-41" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;付款10%&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
           <mxGeometry x="2110" y="10.01" width="175.82" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4hdUQdOhkFKqEoAyxMzh-42" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;strokeColor=#CC0000;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
+          <mxGeometry x="1570" y="0.41000000000000014" width="20" height="98.88" as="geometry" />
+        </mxCell>
+        <mxCell id="4hdUQdOhkFKqEoAyxMzh-43" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;strokeColor=#CC0000;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
+          <mxGeometry x="1860.91" y="-127.44999999999999" width="20" height="372.45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
