@@ -189,7 +189,7 @@
         <mxCell id="En3w5l2pCtN0uPhrjvwb-0" />
         <mxCell id="En3w5l2pCtN0uPhrjvwb-1" parent="En3w5l2pCtN0uPhrjvwb-0" />
         <mxCell id="4hdUQdOhkFKqEoAyxMzh-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
-          <mxGeometry x="320" y="340" width="740" height="310" as="geometry" />
+          <mxGeometry x="320" y="340" width="740" height="290" as="geometry" />
         </mxCell>
         <mxCell id="vjRvE42tQsePJOY1P6pl-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
           <mxGeometry x="350" y="425" width="130" height="170" as="geometry" />
@@ -367,7 +367,7 @@
           <mxGeometry x="2200.29" y="279.71" width="20" height="238.1" as="geometry" />
         </mxCell>
         <mxCell id="4hdUQdOhkFKqEoAyxMzh-46" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;8月8日&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
-          <mxGeometry x="960" y="595" width="60" height="25" as="geometry" />
+          <mxGeometry x="967.88" y="577.5" width="60" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
