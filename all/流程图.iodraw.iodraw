@@ -184,7 +184,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 1 页 的副本 的副本" id="TW0yYQyesT5O2ymt5mUS">
-    <mxGraphModel dx="221" dy="132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="933" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="En3w5l2pCtN0uPhrjvwb-0" />
         <mxCell id="En3w5l2pCtN0uPhrjvwb-1" parent="En3w5l2pCtN0uPhrjvwb-0" />
@@ -239,10 +239,10 @@
           <mxGeometry x="947.95" y="75" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="En3w5l2pCtN0uPhrjvwb-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;strokeColor=#CC0000;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
-          <mxGeometry x="138.56" y="-68.15" width="20" height="235.98" as="geometry" />
+          <mxGeometry x="139.65" y="-69.24" width="20" height="238.15" as="geometry" />
         </mxCell>
         <mxCell id="En3w5l2pCtN0uPhrjvwb-20" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;付款40%&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
-          <mxGeometry x="60" y="10" width="176.25" height="30" as="geometry" />
+          <mxGeometry x="61.52" y="10" width="176.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="En3w5l2pCtN0uPhrjvwb-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;strokeColor=#CC0000;" vertex="1" parent="En3w5l2pCtN0uPhrjvwb-1">
           <mxGeometry x="1077.17" y="-88.88" width="20" height="277.45" as="geometry" />
