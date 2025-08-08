@@ -458,10 +458,10 @@
           <mxGeometry width="1030" height="72" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-37" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;物流发货&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="cvuZKORguD3btPDm38b2-2">
-          <mxGeometry x="12.5" y="16" width="95" height="40" as="geometry" />
+          <mxGeometry x="28.25" y="16" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-38" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;快递公司、快递单号、发货人员&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cvuZKORguD3btPDm38b2-2">
-          <mxGeometry x="151.25" y="16" width="506.26" height="44" as="geometry" />
+          <mxGeometry x="151.25" y="16" width="858.75" height="44" as="geometry" />
         </mxCell>
         <mxCell id="cvuZKORguD3btPDm38b2-13" value="" style="group" vertex="1" connectable="0" parent="JamdVSE7tdyzybAxNe8V-1">
           <mxGeometry x="-156" y="-237" width="1028" height="72" as="geometry" />
