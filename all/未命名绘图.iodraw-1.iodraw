@@ -428,7 +428,7 @@
           <mxGeometry x="10" y="16" width="99.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-59" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;仓库、货场、&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;信息、流转&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cvuZKORguD3btPDm38b2-0">
-          <mxGeometry x="150.25" y="14" width="412" height="44" as="geometry" />
+          <mxGeometry x="151.25" y="14" width="412" height="44" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-60" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;出入库人员信息、出入库时间&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cvuZKORguD3btPDm38b2-0">
           <mxGeometry x="593.25" y="14" width="412" height="44" as="geometry" />
@@ -452,10 +452,10 @@
           <mxGeometry x="151.00232323232325" y="16" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cvuZKORguD3btPDm38b2-2" value="" style="group" vertex="1" connectable="0" parent="JamdVSE7tdyzybAxNe8V-1">
-          <mxGeometry x="-157.5" y="184" width="646" height="72" as="geometry" />
+          <mxGeometry x="-157.5" y="184" width="1030" height="72" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="cvuZKORguD3btPDm38b2-2">
-          <mxGeometry width="646" height="72" as="geometry" />
+          <mxGeometry width="1030" height="72" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-37" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;物流发货&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="cvuZKORguD3btPDm38b2-2">
           <mxGeometry x="12.5" y="16" width="95" height="40" as="geometry" />
