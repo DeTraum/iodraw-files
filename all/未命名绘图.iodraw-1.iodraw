@@ -490,11 +490,8 @@
         <mxCell id="cvuZKORguD3btPDm38b2-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;产品生产&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
           <mxGeometry x="-140.66" y="-359" width="133.66" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="DPfrHgLil3Oc6WYTAp5s-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="JamdVSE7tdyzybAxNe8V-1" source="cvuZKORguD3btPDm38b2-10" target="cvuZKORguD3btPDm38b2-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cvuZKORguD3btPDm38b2-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;生产时间、&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;生产完成时间&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
-          <mxGeometry x="718.75" y="-359" width="217.61" height="44" as="geometry" />
+          <mxGeometry x="629" y="-359" width="217.61" height="44" as="geometry" />
         </mxCell>
         <mxCell id="cvuZKORguD3btPDm38b2-11" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;流水线操作人员信息,操作环节信息&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
           <mxGeometry x="313" y="-359" width="300" height="44" as="geometry" />
