@@ -404,21 +404,6 @@
         <mxCell id="JamdVSE7tdyzybAxNe8V-55" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;生产工艺信息(规格、材料、类型等)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-50">
           <mxGeometry x="10" y="67" width="449" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="JamdVSE7tdyzybAxNe8V-56" value="" style="group" vertex="1" connectable="0" parent="JamdVSE7tdyzybAxNe8V-1">
-          <mxGeometry x="-156" y="12" width="470" height="134" as="geometry" />
-        </mxCell>
-        <mxCell id="JamdVSE7tdyzybAxNe8V-57" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-56">
-          <mxGeometry width="470" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="JamdVSE7tdyzybAxNe8V-58" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;仓储管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-56">
-          <mxGeometry x="10" y="12" width="450" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JamdVSE7tdyzybAxNe8V-59" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;仓库、货场、&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;信息、流转&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-56">
-          <mxGeometry x="10" y="66" width="200" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="JamdVSE7tdyzybAxNe8V-60" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;出入库人员信息、出入库时间&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-56">
-          <mxGeometry x="220" y="66" width="240" height="54" as="geometry" />
-        </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JamdVSE7tdyzybAxNe8V-1" source="JamdVSE7tdyzybAxNe8V-36" target="JamdVSE7tdyzybAxNe8V-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -498,6 +483,18 @@
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-38" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;快递公司、快递单号、发货人员&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
           <mxGeometry x="-31" y="255" width="506.26" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="JamdVSE7tdyzybAxNe8V-57" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
+          <mxGeometry x="-156" y="12" width="470" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="JamdVSE7tdyzybAxNe8V-58" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;仓储管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
+          <mxGeometry x="-146" y="24" width="124" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JamdVSE7tdyzybAxNe8V-59" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;仓库、货场、&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;信息、流转&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
+          <mxGeometry x="-146" y="78" width="200" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JamdVSE7tdyzybAxNe8V-60" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;出入库人员信息、出入库时间&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
+          <mxGeometry x="64" y="78" width="240" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
