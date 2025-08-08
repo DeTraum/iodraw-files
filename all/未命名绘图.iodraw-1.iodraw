@@ -354,7 +354,7 @@
           <mxGeometry x="105.5" y="513" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-50" value="" style="group" vertex="1" connectable="0" parent="JamdVSE7tdyzybAxNe8V-1">
-          <mxGeometry x="-156" y="-606" width="470" height="240" as="geometry" />
+          <mxGeometry x="-126" y="-576" width="470" height="240" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-51" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;arcSize=7;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-50">
           <mxGeometry width="470" height="240" as="geometry" />
@@ -470,16 +470,16 @@
           <mxGeometry x="-145" y="-101" width="117" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-46" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
-          <mxGeometry x="-156" y="-334" width="470" height="134" as="geometry" />
+          <mxGeometry x="-126" y="-304" width="470" height="134" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-47" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;产品质检&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
-          <mxGeometry x="-146" y="-322" width="450" height="40" as="geometry" />
+          <mxGeometry x="-116" y="-292" width="450" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-48" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;质检流程信息&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
-          <mxGeometry x="-146" y="-268" width="220" height="54" as="geometry" />
+          <mxGeometry x="-116" y="-238" width="220" height="54" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-49" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;质检人员信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
-          <mxGeometry x="84" y="-268" width="220" height="54" as="geometry" />
+          <mxGeometry x="114" y="-238" width="220" height="54" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-43" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;包装人员信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
           <mxGeometry x="315" y="-101" width="150" height="40" as="geometry" />
