@@ -487,11 +487,11 @@
         <mxCell id="JamdVSE7tdyzybAxNe8V-57" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
           <mxGeometry x="-156" y="12" width="470" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="JamdVSE7tdyzybAxNe8V-58" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;仓储管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
+        <mxCell id="JamdVSE7tdyzybAxNe8V-58" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;仓储管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
           <mxGeometry x="-146" y="24" width="124" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-59" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;仓库、货场、&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;信息、流转&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
-          <mxGeometry x="-146" y="78" width="200" height="54" as="geometry" />
+          <mxGeometry x="-24" y="21" width="200" height="54" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-60" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;出入库人员信息、出入库时间&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
           <mxGeometry x="64" y="78" width="240" height="54" as="geometry" />
