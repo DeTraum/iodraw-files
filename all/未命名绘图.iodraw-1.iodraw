@@ -125,9 +125,6 @@
         <mxCell id="peC9Q01pIkk-WTO4avEA-43" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;快递公司、快递单号&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="peC9Q01pIkk-WTO4avEA-40">
           <mxGeometry x="10" y="66" width="190" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="peC9Q01pIkk-WTO4avEA-44" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;买家信息、发货时间、物流信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="peC9Q01pIkk-WTO4avEA-40">
-          <mxGeometry x="210" y="65" width="250" height="55" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
