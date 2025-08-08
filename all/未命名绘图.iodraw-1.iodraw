@@ -357,7 +357,7 @@
           <mxGeometry x="-156" y="-161" width="634" height="134" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-39">
-          <mxGeometry width="634" height="72" as="geometry" />
+          <mxGeometry x="-4" y="89" width="634" height="72" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-41" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;产品打包&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-39">
           <mxGeometry x="10" y="12" width="117" height="40" as="geometry" />
