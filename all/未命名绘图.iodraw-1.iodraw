@@ -442,15 +442,6 @@
         <mxCell id="JamdVSE7tdyzybAxNe8V-34" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;买家信息、发货时间、物流信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
           <mxGeometry x="195" y="381.5" width="250" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="JamdVSE7tdyzybAxNe8V-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
-          <mxGeometry x="-157.5" y="241" width="646" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="JamdVSE7tdyzybAxNe8V-37" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;物流发货&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
-          <mxGeometry x="-145" y="257" width="95" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JamdVSE7tdyzybAxNe8V-38" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;快递公司、快递单号、发货人员&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
-          <mxGeometry x="-31" y="255" width="506.26" height="44" as="geometry" />
-        </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-46" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
           <mxGeometry x="-126" y="-304" width="470" height="134" as="geometry" />
         </mxCell>
@@ -464,7 +455,7 @@
           <mxGeometry x="114" y="-238" width="220" height="54" as="geometry" />
         </mxCell>
         <mxCell id="cvuZKORguD3btPDm38b2-0" value="" style="group" vertex="1" connectable="0" parent="JamdVSE7tdyzybAxNe8V-1">
-          <mxGeometry x="-156.25" y="25" width="643.5" height="72" as="geometry" />
+          <mxGeometry x="-156.25" y="37" width="643.5" height="72" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-57" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="cvuZKORguD3btPDm38b2-0">
           <mxGeometry width="643.5" height="72" as="geometry" />
@@ -495,6 +486,18 @@
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-42" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;产品批次&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cvuZKORguD3btPDm38b2-1">
           <mxGeometry x="140.5" y="16" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cvuZKORguD3btPDm38b2-2" value="" style="group" vertex="1" connectable="0" parent="JamdVSE7tdyzybAxNe8V-1">
+          <mxGeometry x="-157.5" y="184" width="646" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="JamdVSE7tdyzybAxNe8V-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="cvuZKORguD3btPDm38b2-2">
+          <mxGeometry width="646" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="JamdVSE7tdyzybAxNe8V-37" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;物流发货&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="cvuZKORguD3btPDm38b2-2">
+          <mxGeometry x="12.5" y="16" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JamdVSE7tdyzybAxNe8V-38" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;快递公司、快递单号、发货人员&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cvuZKORguD3btPDm38b2-2">
+          <mxGeometry x="126.5" y="14" width="506.26" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
