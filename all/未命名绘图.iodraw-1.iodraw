@@ -464,22 +464,22 @@
           <mxGeometry x="126.5" y="14" width="506.26" height="44" as="geometry" />
         </mxCell>
         <mxCell id="cvuZKORguD3btPDm38b2-7" value="" style="group" vertex="1" connectable="0" parent="JamdVSE7tdyzybAxNe8V-1">
-          <mxGeometry x="-156.25" y="-413" width="1068.25" height="121" as="geometry" />
+          <mxGeometry x="-156.25" y="-413" width="1113.25" height="121" as="geometry" />
         </mxCell>
         <mxCell id="cvuZKORguD3btPDm38b2-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="cvuZKORguD3btPDm38b2-7">
-          <mxGeometry width="1068.25" height="121" as="geometry" />
+          <mxGeometry width="1113.25" height="121" as="geometry" />
         </mxCell>
         <mxCell id="cvuZKORguD3btPDm38b2-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;产品生产&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="cvuZKORguD3btPDm38b2-7">
-          <mxGeometry x="20.750777000777" y="26.88888888888889" width="194.22727272727272" height="67.22222222222223" as="geometry" />
+          <mxGeometry x="21.624902874902872" y="26.88888888888889" width="202.4090909090909" height="67.22222222222223" as="geometry" />
         </mxCell>
         <mxCell id="cvuZKORguD3btPDm38b2-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;生产时间、&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;生产完成时间&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cvuZKORguD3btPDm38b2-7">
-          <mxGeometry x="784.3793706293707" y="26.88888888888889" width="249.009324009324" height="67.22222222222223" as="geometry" />
+          <mxGeometry x="817.4213286713288" y="26.88888888888889" width="259.49883449883447" height="67.22222222222223" as="geometry" />
         </mxCell>
         <mxCell id="cvuZKORguD3btPDm38b2-11" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;流水线操作人员信息,操作环节信息&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cvuZKORguD3btPDm38b2-7">
-          <mxGeometry x="508.8090520590521" y="26.88888888888889" width="249.009324009324" height="67.22222222222223" as="geometry" />
+          <mxGeometry x="530.2426184926186" y="26.88888888888889" width="259.49883449883447" height="67.22222222222223" as="geometry" />
         </mxCell>
         <mxCell id="cvuZKORguD3btPDm38b2-12" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;生产工艺信息(规格、材料、类型等)&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cvuZKORguD3btPDm38b2-7">
-          <mxGeometry x="233.2387334887335" y="26.88888888888889" width="249.009324009324" height="67.22222222222223" as="geometry" />
+          <mxGeometry x="243.0639083139083" y="26.88888888888889" width="259.49883449883447" height="67.22222222222223" as="geometry" />
         </mxCell>
         <mxCell id="cvuZKORguD3btPDm38b2-13" value="" style="group" vertex="1" connectable="0" parent="JamdVSE7tdyzybAxNe8V-1">
           <mxGeometry x="-156" y="-237" width="643.5" height="72" as="geometry" />
