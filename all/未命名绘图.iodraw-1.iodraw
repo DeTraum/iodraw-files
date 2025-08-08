@@ -419,19 +419,19 @@
           <mxGeometry x="195" y="381.5" width="250" height="44" as="geometry" />
         </mxCell>
         <mxCell id="cvuZKORguD3btPDm38b2-0" value="" style="group" vertex="1" connectable="0" parent="JamdVSE7tdyzybAxNe8V-1">
-          <mxGeometry x="-156.25" y="37" width="1028" height="72" as="geometry" />
+          <mxGeometry x="-159" y="37" width="1030.75" height="72" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-57" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="cvuZKORguD3btPDm38b2-0">
-          <mxGeometry width="1028" height="72" as="geometry" />
+          <mxGeometry width="1030.75" height="72" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-58" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;仓储管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="cvuZKORguD3btPDm38b2-0">
-          <mxGeometry x="10" y="16" width="99.5" height="40" as="geometry" />
+          <mxGeometry x="10.026750972762645" y="16" width="99.76617217898833" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-59" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;仓库、货场、&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;信息、流转&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cvuZKORguD3btPDm38b2-0">
-          <mxGeometry x="151.25" y="14" width="412" height="44" as="geometry" />
+          <mxGeometry x="151.65460846303503" y="14" width="413.102140077821" height="44" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-60" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;出入库人员信息、出入库时间&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cvuZKORguD3btPDm38b2-0">
-          <mxGeometry x="593.25" y="14" width="412" height="44" as="geometry" />
+          <mxGeometry x="594.837001459144" y="14" width="413.102140077821" height="44" as="geometry" />
         </mxCell>
         <mxCell id="cvuZKORguD3btPDm38b2-1" value="" style="group" vertex="1" connectable="0" parent="JamdVSE7tdyzybAxNe8V-1">
           <mxGeometry x="-156" y="-106" width="1027" height="72" as="geometry" />
