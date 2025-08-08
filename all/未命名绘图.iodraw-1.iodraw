@@ -176,6 +176,9 @@
         <mxCell id="peC9Q01pIkk-WTO4avEA-72" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;生产工艺信息(规格、材料、类型等)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="peC9Q01pIkk-WTO4avEA-76">
           <mxGeometry x="10" y="67" width="449" height="44" as="geometry" />
         </mxCell>
+        <mxCell id="peC9Q01pIkk-WTO4avEA-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.751;entryY=0.341;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="peC9Q01pIkk-WTO4avEA-76" source="peC9Q01pIkk-WTO4avEA-73" target="peC9Q01pIkk-WTO4avEA-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="peC9Q01pIkk-WTO4avEA-77" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-166" y="-178" width="470" height="134" as="geometry" />
         </mxCell>
