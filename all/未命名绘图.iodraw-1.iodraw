@@ -479,7 +479,7 @@
           <mxGeometry x="-267" y="66" width="31" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
-          <mxGeometry x="-156" y="367" width="643" height="72" as="geometry" />
+          <mxGeometry x="-156" y="369" width="643" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-32" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;经销商收货&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
           <mxGeometry x="-145" y="381.5" width="99" height="43" as="geometry" />
