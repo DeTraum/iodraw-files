@@ -258,7 +258,7 @@
       <root>
         <mxCell id="JamdVSE7tdyzybAxNe8V-0" />
         <mxCell id="JamdVSE7tdyzybAxNe8V-1" parent="JamdVSE7tdyzybAxNe8V-0" />
-        <mxCell id="DPfrHgLil3Oc6WYTAp5s-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#333333;strokeColor=#666666;strokeWidth=12;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
+        <mxCell id="DPfrHgLil3Oc6WYTAp5s-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#333333;strokeColor=#E3E3E3;strokeWidth=12;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
           <mxGeometry x="-1143" y="-581" width="2180" height="1300" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-2" value="t" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF8000;arcSize=4;dashed=1;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
