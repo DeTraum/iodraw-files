@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="oqyXuTDoBSW_frrRHjNm">
-    <mxGraphModel dx="1893" dy="1308" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1518" dy="1059" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,6 +46,9 @@
         </mxCell>
         <mxCell id="peC9Q01pIkk-WTO4avEA-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;开通账户&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-340" y="-25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="peC9Q01pIkk-WTO4avEA-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="peC9Q01pIkk-WTO4avEA-7" target="peC9Q01pIkk-WTO4avEA-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="peC9Q01pIkk-WTO4avEA-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;工厂端&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-340" y="-261" width="120" height="60" as="geometry" />
