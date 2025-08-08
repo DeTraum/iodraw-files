@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="oqyXuTDoBSW_frrRHjNm">
-    <mxGraphModel dx="2100" dy="2273" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2799" dy="2737" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,7 +93,7 @@
           <mxGeometry x="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="peC9Q01pIkk-WTO4avEA-35" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;买家下单&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="354" width="120" height="60" as="geometry" />
+          <mxGeometry x="9" y="354" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="peC9Q01pIkk-WTO4avEA-39" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-166" y="164" width="470" height="142" as="geometry" />
@@ -204,6 +204,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="peC9Q01pIkk-WTO4avEA-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="peC9Q01pIkk-WTO4avEA-74" target="peC9Q01pIkk-WTO4avEA-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="peC9Q01pIkk-WTO4avEA-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="peC9Q01pIkk-WTO4avEA-36" target="peC9Q01pIkk-WTO4avEA-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
