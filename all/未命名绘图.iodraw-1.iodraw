@@ -56,7 +56,12 @@
           <mxGeometry x="-340" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="peC9Q01pIkk-WTO4avEA-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="peC9Q01pIkk-WTO4avEA-9" target="peC9Q01pIkk-WTO4avEA-56">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-367" y="-338" />
+              <mxPoint x="-367" y="-240" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="peC9Q01pIkk-WTO4avEA-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;二维码&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-688" y="-368" width="120" height="60" as="geometry" />
