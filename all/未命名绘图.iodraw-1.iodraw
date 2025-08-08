@@ -410,7 +410,7 @@
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-71" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.529;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JamdVSE7tdyzybAxNe8V-1" target="JamdVSE7tdyzybAxNe8V-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="168" y="303" as="sourcePoint" />
+            <mxPoint x="166" y="308" as="sourcePoint" />
             <mxPoint x="593" y="369" as="targetPoint" />
             <Array as="points">
               <mxPoint x="473" y="308" />
