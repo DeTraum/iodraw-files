@@ -254,7 +254,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 1 页 的副本" id="auY3MDuEPs_TmBUZE0LD">
-    <mxGraphModel dx="2566" dy="1756" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1984" dy="1369" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="JamdVSE7tdyzybAxNe8V-0" />
         <mxCell id="JamdVSE7tdyzybAxNe8V-1" parent="JamdVSE7tdyzybAxNe8V-0" />
@@ -475,10 +475,10 @@
         <mxCell id="cvuZKORguD3btPDm38b2-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;生产时间、&lt;/span&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;生产完成时间&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cvuZKORguD3btPDm38b2-7">
           <mxGeometry x="472.5" y="26.88888888888889" width="150" height="67.22222222222223" as="geometry" />
         </mxCell>
-        <mxCell id="cvuZKORguD3btPDm38b2-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;流水线操作人员信息,操作环节信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cvuZKORguD3btPDm38b2-7">
+        <mxCell id="cvuZKORguD3btPDm38b2-11" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;流水线操作人员信息,操作环节信息&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cvuZKORguD3btPDm38b2-7">
           <mxGeometry x="306.5" y="26.88888888888889" width="150" height="67.22222222222223" as="geometry" />
         </mxCell>
-        <mxCell id="cvuZKORguD3btPDm38b2-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;生产工艺信息(规格、材料、类型等)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cvuZKORguD3btPDm38b2-7">
+        <mxCell id="cvuZKORguD3btPDm38b2-12" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;生产工艺信息(规格、材料、类型等)&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cvuZKORguD3btPDm38b2-7">
           <mxGeometry x="140.5" y="26.88888888888889" width="150" height="67.22222222222223" as="geometry" />
         </mxCell>
         <mxCell id="cvuZKORguD3btPDm38b2-13" value="" style="group" vertex="1" connectable="0" parent="JamdVSE7tdyzybAxNe8V-1">
