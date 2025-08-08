@@ -135,7 +135,10 @@
           <mxGeometry x="10" y="12" width="450" height="40" as="geometry" />
         </mxCell>
         <mxCell id="peC9Q01pIkk-WTO4avEA-52" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;仓库、货场、&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;信息、流转&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="peC9Q01pIkk-WTO4avEA-49">
-          <mxGeometry x="10" y="66" width="250" height="54" as="geometry" />
+          <mxGeometry x="10" y="66" width="200" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="peC9Q01pIkk-WTO4avEA-53" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;仓库、货场、&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;信息、流转&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="peC9Q01pIkk-WTO4avEA-49">
+          <mxGeometry x="135" y="66" width="200" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
