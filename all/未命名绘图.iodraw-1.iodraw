@@ -254,7 +254,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 1 页 的副本" id="auY3MDuEPs_TmBUZE0LD">
-    <mxGraphModel dx="2100" dy="1446" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2320" dy="1592" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="JamdVSE7tdyzybAxNe8V-0" />
         <mxCell id="JamdVSE7tdyzybAxNe8V-1" parent="JamdVSE7tdyzybAxNe8V-0" />
@@ -351,7 +351,7 @@
           <mxGeometry x="-460" y="448" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-29" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;买家下单&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
-          <mxGeometry x="105.5" y="513" width="120" height="60" as="geometry" />
+          <mxGeometry x="93.5" y="496" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JamdVSE7tdyzybAxNe8V-1" source="JamdVSE7tdyzybAxNe8V-36" target="JamdVSE7tdyzybAxNe8V-31">
           <mxGeometry relative="1" as="geometry" />
@@ -397,7 +397,7 @@
           <mxGeometry x="-267" y="66" width="31" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
-          <mxGeometry x="-156" y="367" width="643" height="72" as="geometry" />
+          <mxGeometry x="-156" y="367" width="619" height="72" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-32" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;经销商收货&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
           <mxGeometry x="-145" y="381.5" width="99" height="43" as="geometry" />
