@@ -254,7 +254,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 1 页 的副本" id="auY3MDuEPs_TmBUZE0LD">
-    <mxGraphModel dx="2392" dy="1640" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1512" dy="1055" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="JamdVSE7tdyzybAxNe8V-0" />
         <mxCell id="JamdVSE7tdyzybAxNe8V-1" parent="JamdVSE7tdyzybAxNe8V-0" />
@@ -356,7 +356,7 @@
         <mxCell id="JamdVSE7tdyzybAxNe8V-39" value="" style="group" vertex="1" connectable="0" parent="JamdVSE7tdyzybAxNe8V-1">
           <mxGeometry x="-156" y="-161" width="470" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="JamdVSE7tdyzybAxNe8V-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-39">
+        <mxCell id="JamdVSE7tdyzybAxNe8V-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-39">
           <mxGeometry width="470" height="134" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-41" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;产品打包&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-39">
