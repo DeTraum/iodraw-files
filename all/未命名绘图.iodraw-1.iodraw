@@ -359,17 +359,17 @@
         <mxCell id="JamdVSE7tdyzybAxNe8V-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-39">
           <mxGeometry width="470" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="JamdVSE7tdyzybAxNe8V-41" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;产品打包&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-39">
+        <mxCell id="JamdVSE7tdyzybAxNe8V-41" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;产品打包&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-39">
           <mxGeometry x="10" y="12" width="117" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-42" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;产品批次&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-39">
-          <mxGeometry x="10" y="66" width="140" height="54" as="geometry" />
+          <mxGeometry x="10" y="66" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-43" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;包装人员信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-39">
-          <mxGeometry x="320" y="66" width="140" height="54" as="geometry" />
+          <mxGeometry x="320" y="66" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-44" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;包装人员信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-39">
-          <mxGeometry x="165" y="66" width="140" height="54" as="geometry" />
+          <mxGeometry x="165" y="66" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-45" value="" style="group" vertex="1" connectable="0" parent="JamdVSE7tdyzybAxNe8V-1">
           <mxGeometry x="-156" y="-334" width="470" height="333" as="geometry" />
