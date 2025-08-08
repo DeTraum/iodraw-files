@@ -442,16 +442,16 @@
           <mxGeometry x="151.14935567948228" y="16" width="270.26290165530673" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cvuZKORguD3btPDm38b2-2" value="" style="group" vertex="1" connectable="0" parent="JamdVSE7tdyzybAxNe8V-1">
-          <mxGeometry x="-156.25" y="184" width="1030" height="104" as="geometry" />
+          <mxGeometry x="-156.25" y="184" width="1030" height="72" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="cvuZKORguD3btPDm38b2-2">
-          <mxGeometry width="1030" height="104" as="geometry" />
+          <mxGeometry width="1030" height="72" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-37" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;物流发货&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="cvuZKORguD3btPDm38b2-2">
-          <mxGeometry x="28.25" y="23.11111111111111" width="95" height="57.77777777777778" as="geometry" />
+          <mxGeometry x="28.25" y="16" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-38" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;快递公司、快递单号、发货人员&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cvuZKORguD3btPDm38b2-2">
-          <mxGeometry x="151.25" y="23.11111111111111" width="858.75" height="63.55555555555556" as="geometry" />
+          <mxGeometry x="151.25" y="16" width="858.75" height="44" as="geometry" />
         </mxCell>
         <mxCell id="cvuZKORguD3btPDm38b2-13" value="" style="group" vertex="1" connectable="0" parent="JamdVSE7tdyzybAxNe8V-1">
           <mxGeometry x="-156" y="-237" width="1028" height="72" as="geometry" />
@@ -488,6 +488,9 @@
         </mxCell>
         <mxCell id="cvuZKORguD3btPDm38b2-12" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;生产工艺信息(规格、材料、类型等)&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;flipH=0;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
           <mxGeometry x="-7" y="-359" width="300.25" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="DPfrHgLil3Oc6WYTAp5s-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JamdVSE7tdyzybAxNe8V-1" source="JamdVSE7tdyzybAxNe8V-36" target="JamdVSE7tdyzybAxNe8V-68">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
