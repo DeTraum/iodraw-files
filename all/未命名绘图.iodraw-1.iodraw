@@ -476,7 +476,7 @@
           <mxGeometry x="151.0029292929293" y="16" width="383.03030303030306" height="44" as="geometry" />
         </mxCell>
         <mxCell id="cvuZKORguD3btPDm38b2-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;质检人员信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cvuZKORguD3btPDm38b2-13">
-          <mxGeometry x="559.0005050505051" y="16" width="389.41414141414145" height="44" as="geometry" />
+          <mxGeometry x="602" y="14" width="404" height="44" as="geometry" />
         </mxCell>
         <mxCell id="cvuZKORguD3btPDm38b2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JamdVSE7tdyzybAxNe8V-1" source="cvuZKORguD3btPDm38b2-8" target="cvuZKORguD3btPDm38b2-14">
           <mxGeometry relative="1" as="geometry" />
