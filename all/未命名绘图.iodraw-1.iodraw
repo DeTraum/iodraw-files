@@ -177,7 +177,7 @@
           <mxGeometry x="240" y="66" width="220" height="54" as="geometry" />
         </mxCell>
         <mxCell id="peC9Q01pIkk-WTO4avEA-74" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;生产时间、生产完成时间&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="31" y="-733" width="450" height="54" as="geometry" />
+          <mxGeometry x="30" y="-720" width="450" height="43" as="geometry" />
         </mxCell>
         <mxCell id="peC9Q01pIkk-WTO4avEA-73" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;流水线操作人员信息,操作环节信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="31" y="-786" width="449" height="46" as="geometry" />
