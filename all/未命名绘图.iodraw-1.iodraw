@@ -230,6 +230,9 @@
         <mxCell id="peC9Q01pIkk-WTO4avEA-92" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;经销商账号&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-340" y="150" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="peC9Q01pIkk-WTO4avEA-93" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;国内&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="322" y="115" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
