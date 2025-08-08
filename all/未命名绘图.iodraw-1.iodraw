@@ -472,7 +472,7 @@
         <mxCell id="cvuZKORguD3btPDm38b2-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;产品生产&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="cvuZKORguD3btPDm38b2-7">
           <mxGeometry x="12.5" y="26.88888888888889" width="117" height="67.22222222222223" as="geometry" />
         </mxCell>
-        <mxCell id="cvuZKORguD3btPDm38b2-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;生产时间、&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;生产完成时间&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cvuZKORguD3btPDm38b2-7">
+        <mxCell id="cvuZKORguD3btPDm38b2-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;生产时间、&lt;/span&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;生产完成时间&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cvuZKORguD3btPDm38b2-7">
           <mxGeometry x="472.5" y="26.88888888888889" width="150" height="67.22222222222223" as="geometry" />
         </mxCell>
         <mxCell id="cvuZKORguD3btPDm38b2-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;流水线操作人员信息,操作环节信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="cvuZKORguD3btPDm38b2-7">
