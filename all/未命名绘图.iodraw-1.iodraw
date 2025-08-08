@@ -72,7 +72,7 @@
           <mxGeometry x="-500" y="-220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="peC9Q01pIkk-WTO4avEA-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;生产组、质检组&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;打包组、仓储组&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="-200" width="120" height="30" as="geometry" />
+          <mxGeometry x="-340" y="-160" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="peC9Q01pIkk-WTO4avEA-24" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;经销商账号&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-340" y="140" width="120" height="30" as="geometry" />
