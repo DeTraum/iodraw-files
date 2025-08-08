@@ -254,7 +254,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 1 页 的副本" id="auY3MDuEPs_TmBUZE0LD">
-    <mxGraphModel dx="2674" dy="1827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2019" dy="1392" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="JamdVSE7tdyzybAxNe8V-0" />
         <mxCell id="JamdVSE7tdyzybAxNe8V-1" parent="JamdVSE7tdyzybAxNe8V-0" />
@@ -493,11 +493,11 @@
         <mxCell id="JamdVSE7tdyzybAxNe8V-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
           <mxGeometry x="-156" y="181" width="646" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="JamdVSE7tdyzybAxNe8V-37" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;物流发货&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
-          <mxGeometry x="-142.25531914893617" y="193" width="618.5106382978723" height="40" as="geometry" />
+        <mxCell id="JamdVSE7tdyzybAxNe8V-37" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;物流发货&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
+          <mxGeometry x="-142.26" y="193" width="115.26" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-38" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;快递公司、快递单号、发货人员&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
-          <mxGeometry x="-142.25531914893617" y="247" width="618.5106382978723" height="54" as="geometry" />
+          <mxGeometry x="34" y="247" width="442.26" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
