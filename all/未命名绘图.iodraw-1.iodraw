@@ -185,7 +185,7 @@
         <mxCell id="peC9Q01pIkk-WTO4avEA-72" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;生产工艺信息(规格、材料、类型等)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="peC9Q01pIkk-WTO4avEA-69">
           <mxGeometry x="10" y="66" width="220" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="peC9Q01pIkk-WTO4avEA-73" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;质检人员信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="peC9Q01pIkk-WTO4avEA-69">
+        <mxCell id="peC9Q01pIkk-WTO4avEA-73" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;流水线操作人员信息,操作环节信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="peC9Q01pIkk-WTO4avEA-69">
           <mxGeometry x="240" y="66" width="220" height="54" as="geometry" />
         </mxCell>
       </root>
