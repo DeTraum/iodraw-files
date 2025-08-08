@@ -485,7 +485,7 @@
           <mxGeometry x="-31" y="255" width="506.26" height="44" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-57" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
-          <mxGeometry x="-157.5" y="119" width="470" height="72" as="geometry" />
+          <mxGeometry x="-157.5" y="119" width="643.5" height="72" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-58" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;仓储管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
           <mxGeometry x="-147.5" y="135" width="124" height="40" as="geometry" />
@@ -494,7 +494,7 @@
           <mxGeometry x="-25.5" y="133" width="200" height="44" as="geometry" />
         </mxCell>
         <mxCell id="JamdVSE7tdyzybAxNe8V-60" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;出入库人员信息、出入库时间&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JamdVSE7tdyzybAxNe8V-1">
-          <mxGeometry x="182.5" y="133" width="240" height="44" as="geometry" />
+          <mxGeometry x="230" y="133" width="240" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
