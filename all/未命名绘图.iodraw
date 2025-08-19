@@ -460,6 +460,15 @@
         <mxCell id="DFYgZssVItHtel5hVb-Y-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;资产定价引擎&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="290" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DFYgZssVItHtel5hVb-Y-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;可信资产物联网平台&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="330" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DFYgZssVItHtel5hVb-Y-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;资产评估&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="160" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DFYgZssVItHtel5hVb-Y-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;融资模型&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="210" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
