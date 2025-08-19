@@ -512,10 +512,10 @@
           <mxGeometry x="340.5" y="480" width="149" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-25" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;证券型通证发行&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="495" y="522" width="110" height="30" as="geometry" />
+          <mxGeometry x="495" y="518" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-26" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;资本流入&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="515" y="440" width="70" height="30" as="geometry" />
+          <mxGeometry x="515" y="450" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DFYgZssVItHtel5hVb-Y-27" target="DFYgZssVItHtel5hVb-Y-28">
           <mxGeometry relative="1" as="geometry" />
@@ -540,8 +540,8 @@
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="587" y="474.69" as="sourcePoint" />
-            <mxPoint x="515" y="474.69" as="targetPoint" />
+            <mxPoint x="592.5" y="484.82" as="sourcePoint" />
+            <mxPoint x="507.5" y="484.82" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
