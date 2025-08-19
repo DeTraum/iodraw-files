@@ -426,7 +426,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U4dIv1MyvAquw5Mh-NUQ" name="第 4 页">
-    <mxGraphModel dx="512" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="498" dy="302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -549,6 +549,15 @@
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-44" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;设备合同&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110.75" y="181" width="90" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="DFYgZssVItHtel5hVb-Y-46" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="274.5" y="134" width="225.5" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="DFYgZssVItHtel5hVb-Y-47" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;资产评估&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="392.75" y="151" width="90" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="DFYgZssVItHtel5hVb-Y-48" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;融资模型&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="392.75" y="201" width="90" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
