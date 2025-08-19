@@ -443,19 +443,19 @@
           <mxGeometry x="60" y="530" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;交叉验证&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="279" y="153" width="90" height="36" as="geometry" />
+          <mxGeometry x="279.5" y="148" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;资产评估&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="380" y="153" width="90" height="36" as="geometry" />
+          <mxGeometry x="380.5" y="148" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;收入预测&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="279" y="203" width="90" height="36" as="geometry" />
+          <mxGeometry x="279.5" y="198" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;融资模型&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="380" y="203" width="90" height="36" as="geometry" />
+          <mxGeometry x="380.5" y="198" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;资产通证化&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="279" y="254" width="191" height="36" as="geometry" />
+          <mxGeometry x="279.5" y="249" width="191" height="36" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;资产定价引擎&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="290" width="110" height="30" as="geometry" />
@@ -543,6 +543,9 @@
             <mxPoint x="602.5" y="630.8199999999999" as="sourcePoint" />
             <mxPoint x="517.5" y="630.8199999999999" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DFYgZssVItHtel5hVb-Y-42" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264.5" y="124" width="225.5" height="196" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
