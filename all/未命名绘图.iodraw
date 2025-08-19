@@ -472,6 +472,9 @@
         <mxCell id="DFYgZssVItHtel5hVb-Y-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;设备数据流&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="525" y="360" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DFYgZssVItHtel5hVb-Y-56" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="770" y="310.5" width="220" height="79" as="geometry" />
+        </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;可信模块服务&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="830" y="242" width="110" height="30" as="geometry" />
         </mxCell>
@@ -583,9 +586,6 @@
             <mxPoint x="610" y="191" as="sourcePoint" />
             <mxPoint x="490" y="191" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="DFYgZssVItHtel5hVb-Y-56" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="770" y="310.5" width="220" height="79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
