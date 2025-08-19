@@ -426,7 +426,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U4dIv1MyvAquw5Mh-NUQ" name="第 4 页">
-    <mxGraphModel dx="1353" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="379" dy="229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -519,6 +519,9 @@
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-30" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;投资者&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="902.47" y="440" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DFYgZssVItHtel5hVb-Y-31" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;可信模块服务&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="250" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
