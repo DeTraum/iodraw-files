@@ -426,7 +426,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U4dIv1MyvAquw5Mh-NUQ" name="第 4 页">
-    <mxGraphModel dx="1114" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1184" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -488,19 +488,19 @@
           <mxGeometry x="810" y="320" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-20" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;资产&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="70" y="423" width="70" height="50" as="geometry" />
+          <mxGeometry x="70" y="480" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-21" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;上链&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="398" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-22" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;资产所有者&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="190" y="423" width="99" height="50" as="geometry" />
+          <mxGeometry x="190" y="480" width="99" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;收益锚定&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="281" y="398" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-24" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;资产证券通证化特殊&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;目的公司(SPV)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="360.5" y="423" width="149" height="50" as="geometry" />
+          <mxGeometry x="360.5" y="480" width="149" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-25" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;证券型通证发行&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="502" y="398" width="110" height="30" as="geometry" />
@@ -509,10 +509,10 @@
           <mxGeometry x="520" y="368" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-27" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;受监管的发行方&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="612" y="423" width="128" height="50" as="geometry" />
+          <mxGeometry x="600" y="480" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-28" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;分销商&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="770" y="423" width="70" height="50" as="geometry" />
+          <mxGeometry x="770" y="480" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-29" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;购买/赎回&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="850" y="398" width="70" height="30" as="geometry" />
@@ -521,7 +521,7 @@
           <mxGeometry x="760" y="125" width="142.47" height="67.88" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-34" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;投资者&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="930" y="423" width="70" height="50" as="geometry" />
+          <mxGeometry x="910" y="480" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
