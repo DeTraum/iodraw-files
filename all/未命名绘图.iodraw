@@ -426,7 +426,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U4dIv1MyvAquw5Mh-NUQ" name="第 4 页">
-    <mxGraphModel dx="395" dy="239" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="557" dy="337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -442,26 +442,26 @@
         <mxCell id="DFYgZssVItHtel5hVb-Y-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;现实世界资产链&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="60" y="530" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DFYgZssVItHtel5hVb-Y-42" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=none;strokeColor=#d1e3fb;" vertex="1" parent="1">
+        <mxCell id="DFYgZssVItHtel5hVb-Y-42" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#D4E1F5;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="264.5" y="124" width="225.5" height="196" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;交叉验证&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="279.5" y="148" width="90" height="36" as="geometry" />
+          <mxGeometry x="281.75" y="138" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;资产评估&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="380.5" y="148" width="90" height="36" as="geometry" />
+          <mxGeometry x="382.75" y="138" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;收入预测&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="279.5" y="198" width="90" height="36" as="geometry" />
+          <mxGeometry x="281.75" y="188" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;融资模型&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="380.5" y="198" width="90" height="36" as="geometry" />
+          <mxGeometry x="382.75" y="188" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;资产通证化&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="279.5" y="249" width="191" height="36" as="geometry" />
+          <mxGeometry x="281.75" y="239" width="191" height="36" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;资产定价引擎&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="290" width="110" height="30" as="geometry" />
+          <mxGeometry x="322.25" y="280" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;可信资产物联网平台&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="279" y="520" width="205" height="50" as="geometry" />
