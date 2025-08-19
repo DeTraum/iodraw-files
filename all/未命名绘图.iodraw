@@ -545,13 +545,13 @@
           <mxGeometry x="110.75" y="181" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-46" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="635" y="124" width="125" height="196" as="geometry" />
+          <mxGeometry x="610" y="130" width="125" height="196" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-47" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;操作系统&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="650" y="179" width="90" height="36" as="geometry" />
+          <mxGeometry x="627.5" y="159" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-48" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;支付系统&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="650" y="244" width="90" height="36" as="geometry" />
+          <mxGeometry x="627.5" y="240" width="90" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
