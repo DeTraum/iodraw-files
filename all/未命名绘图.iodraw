@@ -476,10 +476,10 @@
           <mxGeometry x="825" y="259.25" width="180" height="90.75" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;可信模块服务&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="830" y="221.25" width="110" height="30" as="geometry" />
+          <mxGeometry x="860" y="225" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;人工智能与物联网模块&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="314" width="150" height="30" as="geometry" />
+          <mxGeometry x="840" y="313" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DFYgZssVItHtel5hVb-Y-20" target="DFYgZssVItHtel5hVb-Y-22">
           <mxGeometry relative="1" as="geometry" />
@@ -585,7 +585,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-57" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;电动汽车充电站&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="850" y="272" width="130" height="36" as="geometry" />
+          <mxGeometry x="850" y="271" width="130" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
