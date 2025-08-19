@@ -469,12 +469,6 @@
         <mxCell id="DFYgZssVItHtel5hVb-Y-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;设备数据流&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="300" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DFYgZssVItHtel5hVb-Y-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;操作系统&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="612" y="181" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DFYgZssVItHtel5hVb-Y-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;支付系统&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="612" y="255" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;可信模块服务&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="240" width="110" height="30" as="geometry" />
         </mxCell>
@@ -551,13 +545,13 @@
           <mxGeometry x="110.75" y="181" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-46" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="274.5" y="134" width="225.5" height="196" as="geometry" />
+          <mxGeometry x="595" y="117" width="225.5" height="196" as="geometry" />
         </mxCell>
-        <mxCell id="DFYgZssVItHtel5hVb-Y-47" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;资产评估&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="392.75" y="151" width="90" height="36" as="geometry" />
+        <mxCell id="DFYgZssVItHtel5hVb-Y-47" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;操作系统&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="610" y="179" width="90" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="DFYgZssVItHtel5hVb-Y-48" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;融资模型&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="392.75" y="201" width="90" height="36" as="geometry" />
+        <mxCell id="DFYgZssVItHtel5hVb-Y-48" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;支付系统&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="610" y="229" width="90" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
