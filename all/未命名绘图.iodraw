@@ -440,7 +440,7 @@
           <mxGeometry x="133" y="231" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;现实世界资产链&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="60" y="500" width="110" height="30" as="geometry" />
+          <mxGeometry x="60" y="520" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;交叉验证&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="150" width="110" height="30" as="geometry" />
@@ -461,7 +461,7 @@
           <mxGeometry x="320" y="290" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;可信资产物联网平台&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="265" y="500" width="140" height="30" as="geometry" />
+          <mxGeometry x="305" y="520" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;业务数据流&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="170" width="110" height="30" as="geometry" />
