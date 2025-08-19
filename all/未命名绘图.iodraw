@@ -473,10 +473,16 @@
           <mxGeometry x="550" y="300" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;操作系统&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="181" width="110" height="30" as="geometry" />
+          <mxGeometry x="612" y="181" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;支付系统&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="260" width="80" height="30" as="geometry" />
+          <mxGeometry x="612" y="255" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DFYgZssVItHtel5hVb-Y-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;操作系统&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="218" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DFYgZssVItHtel5hVb-Y-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;支付系统&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="292" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
