@@ -426,7 +426,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U4dIv1MyvAquw5Mh-NUQ" name="第 4 页">
-    <mxGraphModel dx="902" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="861" dy="1348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -440,34 +440,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-42" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="234.5" y="325" width="225.5" height="196" as="geometry" />
+          <mxGeometry x="234.5" y="320" width="225.5" height="196" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;交叉验证&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="251.75" y="342" width="90" height="36" as="geometry" />
+          <mxGeometry x="251.75" y="337" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;资产评估&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="352.75" y="342" width="90" height="36" as="geometry" />
+          <mxGeometry x="352.75" y="337" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;收入预测&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="251.75" y="392" width="90" height="36" as="geometry" />
+          <mxGeometry x="251.75" y="387" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;融资模型&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="352.75" y="392" width="90" height="36" as="geometry" />
+          <mxGeometry x="352.75" y="387" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;资产通证化&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="251.75" y="443" width="191" height="36" as="geometry" />
+          <mxGeometry x="251.75" y="438" width="191" height="36" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;资产定价引擎&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="292.25" y="484" width="110" height="30" as="geometry" />
+          <mxGeometry x="292.25" y="479" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;可信资产物联网平台&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=24;" vertex="1" parent="1">
           <mxGeometry x="234.5" y="531" width="225.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;业务数据流&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="465" y="361" width="110" height="30" as="geometry" />
+          <mxGeometry x="465" y="356" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;现金数据流&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="465" y="426" width="110" height="30" as="geometry" />
+          <mxGeometry x="465" y="421" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;设备数据流&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="559" width="110" height="30" as="geometry" />
@@ -536,7 +536,7 @@
           <mxGeometry x="920" y="636" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-45" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="60" y="325" width="128.5" height="196" as="geometry" />
+          <mxGeometry x="60" y="320" width="128.5" height="196" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -545,46 +545,46 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-43" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据合同&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="79.25" y="456" width="90" height="36" as="geometry" />
+          <mxGeometry x="79.25" y="451" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-44" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;设备合同&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="79.25" y="382" width="90" height="36" as="geometry" />
+          <mxGeometry x="79.25" y="377" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="456.00000000000006" as="sourcePoint" />
-            <mxPoint x="460" y="456.00000000000006" as="targetPoint" />
+            <mxPoint x="580" y="451.00000000000006" as="sourcePoint" />
+            <mxPoint x="460" y="451.00000000000006" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="456" />
-              <mxPoint x="480" y="456" />
+              <mxPoint x="480" y="451" />
+              <mxPoint x="480" y="451" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-46" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="580" y="325" width="125" height="196" as="geometry" />
+          <mxGeometry x="580" y="320" width="125" height="196" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-47" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;操作系统&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="597.5" y="381" width="90" height="36" as="geometry" />
+          <mxGeometry x="597.5" y="376" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-48" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;支付系统&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="597.5" y="468" width="90" height="36" as="geometry" />
+          <mxGeometry x="597.5" y="463" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="234.5" y="377.69" as="sourcePoint" />
-            <mxPoint x="188.5" y="377.69" as="targetPoint" />
+            <mxPoint x="234.5" y="372.69" as="sourcePoint" />
+            <mxPoint x="188.5" y="372.69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="234.5" y="460.85" as="sourcePoint" />
-            <mxPoint x="188.5" y="460.85" as="targetPoint" />
+            <mxPoint x="234.5" y="455.85" as="sourcePoint" />
+            <mxPoint x="188.5" y="455.85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="392" as="sourcePoint" />
-            <mxPoint x="460" y="392" as="targetPoint" />
+            <mxPoint x="580" y="387" as="sourcePoint" />
+            <mxPoint x="460" y="387" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-57" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;电动汽车充电站&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
