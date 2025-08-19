@@ -426,7 +426,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U4dIv1MyvAquw5Mh-NUQ" name="第 4 页">
-    <mxGraphModel dx="344" dy="208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="701" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -476,7 +476,7 @@
           <mxGeometry x="830" y="242" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;电动汽车充电站&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="280" width="100" height="30" as="geometry" />
+          <mxGeometry x="860" y="283" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;人工智能与物联网模块&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="910" y="340" width="100" height="30" as="geometry" />
