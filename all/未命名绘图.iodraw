@@ -506,7 +506,10 @@
           <mxGeometry x="502" y="398" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-26" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;资本流入&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="368" width="70" height="30" as="geometry" />
+          <mxGeometry x="520" y="368" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DFYgZssVItHtel5hVb-Y-27" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;受监管的发行方&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="470" width="139" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
