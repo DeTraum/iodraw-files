@@ -511,8 +511,11 @@
         <mxCell id="DFYgZssVItHtel5hVb-Y-27" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;受监管的发行方&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="622" y="413" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DFYgZssVItHtel5hVb-Y-28" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;受监管的发行方&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="780" y="423" width="70" height="30" as="geometry" />
+        <mxCell id="DFYgZssVItHtel5hVb-Y-28" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;分销商&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="414" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DFYgZssVItHtel5hVb-Y-29" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;购买/赎回&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="383" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
