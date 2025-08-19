@@ -502,8 +502,8 @@
         <mxCell id="DFYgZssVItHtel5hVb-Y-24" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;资产证券通证化特殊目的公司(SPV)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="361" y="413" width="139" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DFYgZssVItHtel5hVb-Y-25" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;资产证券通证化特殊目的公司(SPV)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="371" y="423" width="139" height="30" as="geometry" />
+        <mxCell id="DFYgZssVItHtel5hVb-Y-25" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;证券型通证发行&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="443" width="139" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
