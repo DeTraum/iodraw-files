@@ -440,7 +440,13 @@
           <mxGeometry x="133" y="231" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;现实世界资产链&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="350" width="60" height="30" as="geometry" />
+          <mxGeometry x="100" y="330" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DFYgZssVItHtel5hVb-Y-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;交叉验证&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DFYgZssVItHtel5hVb-Y-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;交叉验证&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="150" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
