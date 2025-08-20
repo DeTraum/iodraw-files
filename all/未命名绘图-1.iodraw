@@ -426,12 +426,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U4dIv1MyvAquw5Mh-NUQ" name="第 4 页">
-    <mxGraphModel dx="1353" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1894" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YA3s9J090PYNVX00an_P-1" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="120" y="390" width="930" height="376" as="geometry" />
+          <mxGeometry x="120" y="260" width="930" height="376" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;现实世界资产链&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=25;" parent="YA3s9J090PYNVX00an_P-1" vertex="1">
           <mxGeometry x="1.5" y="211" width="127" height="40" as="geometry" />
@@ -610,7 +610,7 @@
           <mxGeometry x="563.5" y="110" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Vn3RlSlFhUeElXTXYoHQ-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;朗新集团充电桩RWA发行流程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="442.5" y="790" width="285" height="30" as="geometry" />
+          <mxGeometry x="442.5" y="660" width="285" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
