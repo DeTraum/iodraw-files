@@ -472,14 +472,15 @@
         <mxCell id="DFYgZssVItHtel5hVb-Y-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;设备数据流&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="YA3s9J090PYNVX00an_P-1" vertex="1">
           <mxGeometry x="610" y="230" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DFYgZssVItHtel5hVb-Y-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="YA3s9J090PYNVX00an_P-1" edge="1">
+        <mxCell id="DFYgZssVItHtel5hVb-Y-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="YA3s9J090PYNVX00an_P-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="750" y="185.25000000000006" as="sourcePoint" />
-            <mxPoint x="400" y="185.55" as="targetPoint" />
+            <mxPoint x="400" y="170" as="targetPoint" />
             <Array as="points">
               <mxPoint x="750" y="220" />
               <mxPoint x="480" y="220" />
-              <mxPoint x="480" y="186" />
+              <mxPoint x="480" y="150" />
+              <mxPoint x="400" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
