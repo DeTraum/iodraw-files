@@ -431,7 +431,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YA3s9J090PYNVX00an_P-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="100" y="370" width="930" height="376" as="geometry" />
+          <mxGeometry x="120" y="390" width="930" height="376" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;现实世界资产链&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=25;" parent="YA3s9J090PYNVX00an_P-1" vertex="1">
           <mxGeometry x="1.5" y="211" width="127" height="40" as="geometry" />
