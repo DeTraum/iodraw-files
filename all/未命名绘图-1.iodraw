@@ -426,7 +426,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U4dIv1MyvAquw5Mh-NUQ" name="第 4 页">
-    <mxGraphModel dx="947" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="541" dy="327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -464,10 +464,10 @@
           <mxGeometry x="174.5" y="211" width="225.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;业务数据流&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="YA3s9J090PYNVX00an_P-1" vertex="1">
-          <mxGeometry x="405" y="36" width="110" height="30" as="geometry" />
+          <mxGeometry x="405" y="20" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;现金数据流&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="YA3s9J090PYNVX00an_P-1" vertex="1">
-          <mxGeometry x="405" y="101" width="110" height="30" as="geometry" />
+          <mxGeometry x="405" y="85" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;设备数据流&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="YA3s9J090PYNVX00an_P-1" vertex="1">
           <mxGeometry x="610" y="230" width="110" height="30" as="geometry" />
@@ -560,11 +560,11 @@
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="YA3s9J090PYNVX00an_P-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="131.00000000000006" as="sourcePoint" />
-            <mxPoint x="400" y="131.00000000000006" as="targetPoint" />
+            <mxPoint x="520" y="115.00000000000006" as="sourcePoint" />
+            <mxPoint x="400" y="115.00000000000006" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="131" />
-              <mxPoint x="420" y="131" />
+              <mxPoint x="420" y="115" />
+              <mxPoint x="420" y="115" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -591,8 +591,8 @@
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="YA3s9J090PYNVX00an_P-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="67" as="sourcePoint" />
-            <mxPoint x="400" y="67" as="targetPoint" />
+            <mxPoint x="520" y="51" as="sourcePoint" />
+            <mxPoint x="400" y="51" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DFYgZssVItHtel5hVb-Y-57" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;电动汽车充电站&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="YA3s9J090PYNVX00an_P-1" vertex="1">
